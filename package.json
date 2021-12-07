@@ -1,0 +1,27 @@
+{
+  "name": "ocean.api.new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llwch/ocean.api.new.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llwch/ocean.api.new/issues"
+  },
+  "homepage": "https://github.com/llwch/ocean.api.new#readme",
+  "devDependencies": {
+    "@types/got": "^9.6.12",
+    "@types/jest": "^27.0.3",
+    "got": "^11.8.3",
+    "jest": "^27.4.3",
+    "typescript": "^4.5.2"
+  }
+}
